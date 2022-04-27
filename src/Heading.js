@@ -1,10 +1,5 @@
 const Heading = () => {
 
-    function Search (event) {
-        console.log(event.target.value)
-    }
-
-
 
     return (
         <div>
